@@ -53,4 +53,4 @@ basic_rag_chatbot/
 
 ## 🖼️ Application Preview
 
-<img width="1867" height="831" alt="image" src="https://github.com/user-attachments/assets/79052a0a-4a42-417c-9317-8a96f897c77d" />
+![Basic RAG Chatbot](images/rag-chatbot.png)
