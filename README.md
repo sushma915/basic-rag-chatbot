@@ -1,5 +1,9 @@
 # 📚 Basic RAG Chatbot
 
+## 🚀 Live Demo
+
+🔗 [Try the Basic RAG Chatbot] https://basic-rag-chatbot-wnhe6f2lv39mtzajgte8zn.streamlit.app/
+
 An interactive **Retrieval-Augmented Generation (RAG)** chatbot built with **Streamlit**, **LangChain**, and **ChromaDB**, powered by **Groq** LLMs and **HuggingFace** embeddings.
 
 The application allows users to upload PDF documents, process their content, and ask questions. Answers are generated using relevant information retrieved from the uploaded document.
@@ -50,7 +54,9 @@ basic_rag_chatbot/
 ├── requirements.txt        # Project dependencies
 ├── .env                    # Environment variables
 └── .gitignore              # Ignored files
-
+```
 ## 🖼️ Application Preview
 
 ![Basic RAG Chatbot](images/rag-chatbot.png)
+
+https://github.com/sushma915/basic-rag-chatbot/blob/main/images/rag-chatbot.png
